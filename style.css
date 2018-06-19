@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.navbar-header {
+    background-color: #4eeee5;
+    height: 70px;
+    width: 150px;
+
+}
+
+
+
+.navbar-brand {
+    padding: 13%;
+
+
+
+
+
+}
+
+
+.footer {
+text-align: center;
+background: #4eeee5;
+padding-top: 20px;
+
+
+}
+
+#bodycol {
+    margin-bottom: 435px;
+}
+
+img {
+    height: 200px;
+    float: left;
+    padding: 10px;
+
+    
+}
+
+#colFormLabel {
+
+    margin-left: 15px;
+
+
+
+}
+
+.marginbottom  {
+    margin-bottom: 37%;
+
+
+}
+
+
+
+
+ img {
+    width: 35%;
+    height:auto;
+
+ }
+
+ .messagebox {
+    height: 100px;
+
+
+ }
+
+ .col-md {
+
+    
+ }
+ 
+   
+
